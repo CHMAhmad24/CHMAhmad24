@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ch Muhammad Ahmad</h1>
-<h3 align="center">A passionate Full Stack developer from Lahore, Pakistan</h3>
-<h1 align="center">Education History</h1>
-<h3 align="center">Matric from High School, ICS Pre-Engineering from college, Currently Studing in 7th Semester in BS Software Engineering at GCUF</h3>
-
-<p>I am a person who is free from life and is ambitious to be a greatest man my bloodline has ever seen, i a have no dreams and also i mostly stay away from distractions and enjoyment my only goal is just to get as busy as possible and the reason to do this is the <b>Fear Of Death</b> I have always lived my life for others</p>
+<h3 align="center">A passionate MERN Stack developer from Lahore, Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chmahmad24&label=Profile%20views&color=0e75b6&style=flat" alt="chmahmad24" /> </p>
+
+- 🌱 I’m currently learning **VUE, Nest.js, Next.js Flutter**
+
+- 👨‍💻 All of my projects are available at [https://github.com/CHMAhmad24/CHMAhmad24](https://github.com/CHMAhmad24/CHMAhmad24)
+
+- 💬 Ask me about **React and JavaScript**
+
+- 📫 How to reach me **chmahmad24@gmail.com**
+
+- ⚡ Fun fact **I am an observer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
