@@ -25,3 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chmahmad24&show_icons=true&locale=en&layout=compact" alt="chmahmad24" /></p>
 
+## 🐍 My Contributions
+
+![snake gif](https://raw.githubusercontent.com/chmahmad24/snk/output/github-contribution-grid-snake.svg)
