@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **MERN**
  
- 🌱 I’m currently learning **Nest.js, Next.js, Vue, Flutter**
+ 🌱 I’m currently learning **Next.js, Vue, Flutter**
 
 💬 Ask me about **Node.js, React, Express.js, MognoDB**
 
