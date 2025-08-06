@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="[chmahmad24@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl)" target="blank">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl" target="blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-ahmad-78957030b" target="_blank">
