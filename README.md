@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chmahmad24@gmail.com&su=Hello&body=I%20want%20to%20connect%20with%20you!
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chmahmad24@gmail.com
 " target="blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank" />
   </a>
