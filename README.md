@@ -52,7 +52,17 @@ I am a passionate **Full Stack Web Developer** from Lahore, Pakistan, with a kee
 
 ### 🐍 Contribution Journey
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CHMAhmad24/CHMAhmad24/output/github-contribution-grid-snake.svg" alt="snake" />
+
+  <h2>🐍 My Contributions 🐍</h2>
+
+  <br>
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+  
+
+  <br/><br/><br/>
+
 </div>
 
 ---
