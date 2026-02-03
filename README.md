@@ -19,7 +19,7 @@
 </div>
 
 <div align="center"> 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chmahmad24@gmail.com" target="blank">
+  <a href="mailto:chmahmad24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-ahmad-78957030b" target="_blank">
@@ -44,17 +44,18 @@
 <div align="center">
   <h2>🐍 My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CHMAhmad24/CHMAhmad24/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/CHMAhmad24/CHMAhmad24/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHMAhmad24&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Ahmad's stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHMAhmad24&layout=compact&theme=react&border_radius=10&hide=html" alt="Ahmad's top languages" />
-  <br/>
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=CHMAhmad24&theme=react&border_radius=10" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CHMAhmad24&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHMAhmad24&layout=compact&theme=react&border_radius=10&hide=html" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHMAhmad24&theme=react&border_radius=10" alt="Streak Stats" />
 </div>
 
 <hr/>
