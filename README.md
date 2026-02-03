@@ -35,10 +35,6 @@ I am a passionate **Full Stack Web Developer** from Lahore, Pakistan, with a kee
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://metrics.lecoq.io/CHMAhmad24?base=header,activity,community,repositories&base.indepth=true&config.timezone=Asia/Karachi" alt="GitHub Metrics" width="100%" />
-  
-  <br/><br/>
-  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CHMAhmad24&show_icons=true&theme=tokyonight" width="400" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CHMAhmad24&layout=compact&theme=tokyonight&hide=html,css" width="300" />
 </div>
