@@ -34,18 +34,17 @@ I am a passionate **Full Stack Web Developer** from Lahore, Pakistan, with a kee
 ---
 
 ### 📊 GitHub Activity
+
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHMAhmad24&show_icons=true&theme=tokyonight&border_radius=10" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHMAhmad24&layout=compact&theme=tokyonight&border_radius=10" />
-      </td>
-    </tr>
-  </table>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CHMAhmad24&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHMAhmad24&show_icons=true&theme=tokyonight&border_radius=10&show=reviews,discussions,prs,commits" alt="Ahmad's GitHub Stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHMAhmad24&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" alt="Ahmad's Top Languages" />
+  
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHMAhmad24&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
